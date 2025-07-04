@@ -1,0 +1,33 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
+  <diagram name="Page-1" id="heQTnCJiAQlOeAAGyAfq">
+    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yK5xyDV9xOuC_urhR6eB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.407;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yK5xyDV9xOuC_urhR6eB-1" target="yK5xyDV9xOuC_urhR6eB-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yK5xyDV9xOuC_urhR6eB-1" value="Take a number" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="41" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yK5xyDV9xOuC_urhR6eB-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yK5xyDV9xOuC_urhR6eB-2" target="yK5xyDV9xOuC_urhR6eB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yK5xyDV9xOuC_urhR6eB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yK5xyDV9xOuC_urhR6eB-2" target="yK5xyDV9xOuC_urhR6eB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yK5xyDV9xOuC_urhR6eB-2" value="Check if no. is divisible by 2" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="368" y="138" width="112" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="yK5xyDV9xOuC_urhR6eB-4" value="Number is odd" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="172" y="159" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yK5xyDV9xOuC_urhR6eB-6" value="Number is even&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="341" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
